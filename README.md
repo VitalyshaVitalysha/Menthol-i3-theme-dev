@@ -4,6 +4,6 @@
 
 ( Это сборка не претендует на эксклюзивность , однако вы наверное тоже не Линус Торвальдс ) 
 
-![alt text](https://github.com/VitalyshaVitalysha/i3Fruit-Menthol/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202020-06-24%2022-44-41.png)
+![alt text](https://github.com/VitalyshaVitalysha/i3Fruit-Menthol/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202020-06-29%2006-50-08.png)
 
 Вам потребуется Zenity для работы некоторых приложений и скриптов ...
