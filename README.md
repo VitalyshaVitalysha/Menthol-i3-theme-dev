@@ -1,3 +1,5 @@
+https://vk.com/s/v1/doc/2x7yin1U2g-D3I-V19EIPuTrxo8wihqsv7BBYijttAM4BWZCfsI
+
 SOS, Help my . Мама умерла в мой день рождения 13 января
 Mom died on my birthday on January 13 , If it 's not difficult, throw it on the phone
 Gravetal@yandex.ru
